@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Remera algodon",
+    "description": "Remera de algodon comun",
+    "price": 2000,
+    "thumbnail": "sin imagen",
+    "code": "111",
+    "stock": 100,
+    "category" : "indumentaria",
+    "id": 1
+  },
+  {
+    "title": "Remera algodon premium",
+    "description": "Este es un producto prueba",
+    "price": 4000,
+    "thumbnail": "sin imagen",
+    "code": "222",
+    "stock": 50,
+    "category" : "indumentaria",
+    "id": 2
+  },
+  {
+    "title": "Chomba premium",
+    "description": "Este es un producto prueba",
+    "price": 8000,
+    "thumbnail": "sin imagen",
+    "code": "333",
+    "stock": 25,
+    "category" : "indumentaria",
+    "id": 3
+  },
+  {
+    "title": "Jogger",
+    "description": "Este es un producto prueba",
+    "price": 7000,
+    "thumbnail": "sin imagen",
+    "code": "444",
+    "stock": 40,
+    "category" : "indumentaria",
+    "id": 4
+  },
+  {
+    "title": "Pantalon algodon",
+    "description": "Este es un producto prueba",
+    "price": 4500,
+    "thumbnail": "sin imagen",
+    "code": "555",
+    "stock": 60,
+    "category" : "indumentaria",
+    "id": 5
+  },
+  {
+    "title": "Bermuda algodon",
+    "description": "Este es un producto prueba",
+    "price": 4000,
+    "thumbnail": "sin imagen",
+    "code": "666",
+    "stock": 40,
+    "category" : "indumentaria",
+    "id": 6
+  },
+  {
+    "title": "Chupin deportivo",
+    "description": "Este es un producto prueba",
+    "price": 5000,
+    "thumbnail": "sin imagen",
+    "code": "777",
+    "stock": 35,
+    "category": "indumentaria",
+    "id": 7
+  },
+  {
+    "title": "Campera capucha",
+    "description": "Este es un producto prueba",
+    "price": 7000,
+    "thumbnail": "sin imagen",
+    "code": "888",
+    "stock": 25,
+    "category" : "indumentaria",
+    "id": 8
+  },
+  {
+    "title": "Buzo",
+    "description": "Este es un producto prueba",
+    "price": 6000,
+    "thumbnail": "sin imagen",
+    "code": "999",
+    "stock": 20,
+    "category" : "indumentaria",
+    "id": 9
+  },
+  {
+    "title": "Short entrenamiento",
+    "description": "Este es un producto prueba",
+    "price": 5500,
+    "thumbnail": "sin imagen",
+    "code": "010",
+    "stock": 40,
+    "category" : "indumentaria",
+    "id": 10
+  },
+  {
+    "title": "boxer",
+    "description": "boxer algodon",
+    "price": "1000",
+    "thumbnail": "\"sin imagen\"",
+    "code": "1111",
+    "stock": "60",
+    "category" : "indumentaria",
+    "id": "faaaf317-9382-4eec-8448-f3653ca7ea0c"
+  }
+]
